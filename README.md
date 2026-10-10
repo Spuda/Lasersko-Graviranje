@@ -9,8 +9,8 @@ Gravure izrađene na **Snapmaker Artisanu**.
  
 | | | |
 |:---:|:---:|:---:|
-| <img src="01.jpg" width="300"> | <img src="02.jpg" width="300"> | <img src="images/2w-zeljezo/03.jpg" width="300"> |
-| <img src="images/2w-zeljezo/04.jpg" width="300"> | <img src="images/2w-zeljezo/05.jpg" width="300"> | <img src="images/2w-zeljezo/06.jpg" width="300"> |
+| <img src="01.jpg" width="300"> | <img src="03.jpg" width="300"> | <img src="04.jpg" width="300"> |
+| <img src="06.jpg" width="300"> | <img src="07.jpg" width="300"> |
  
 ---
  
@@ -18,6 +18,6 @@ Gravure izrađene na **Snapmaker Artisanu**.
  
 | | | |
 |:---:|:---:|:---:|
-| <img src="images/40w-drvo/01.jpg" width="300"> | <img src="images/40w-drvo/02.jpg" width="300"> | <img src="images/40w-drvo/03.jpg" width="300"> |
-| <img src="images/40w-drvo/04.jpg" width="300"> | <img src="images/40w-drvo/05.jpg" width="300"> | <img src="images/40w-drvo/06.jpg" width="300"> |
+| <img src="02.jpg" width="300"> | <img src="/05.jpg" width="300"> |
+
  
