@@ -9,7 +9,7 @@ Gravure izrađene na **Snapmaker Artisanu**.
  
 | | | |
 |:---:|:---:|:---:|
-| <img src="images/2w-zeljezo/01.jpg" width="300"> | <img src="images/2w-zeljezo/02.jpg" width="300"> | <img src="images/2w-zeljezo/03.jpg" width="300"> |
+| <img src="01.jpg" width="300"> | <img src="02.jpg" width="300"> | <img src="images/2w-zeljezo/03.jpg" width="300"> |
 | <img src="images/2w-zeljezo/04.jpg" width="300"> | <img src="images/2w-zeljezo/05.jpg" width="300"> | <img src="images/2w-zeljezo/06.jpg" width="300"> |
  
 ---
